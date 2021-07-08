@@ -1,0 +1,467 @@
+Last login: Mon Jul  5 21:34:36 on ttys000
+gloria@GloriadeMacBook-Pro ~ % hugo new _index.md
+Error: Unable to locate config file or config directory. Perhaps you need to create a new site.
+       Run `hugo help new` for details.
+
+gloria@GloriadeMacBook-Pro ~ % hugo server -D
+Error: Unable to locate config file or config directory. Perhaps you need to create a new site.
+       Run `hugo help new` for details.
+
+gloria@GloriadeMacBook-Pro ~ % cd ~/Sites/my-codef-site
+gloria@GloriadeMacBook-Pro my-codef-site % hugo new _index.md
+/Users/gloria/Sites/my-codef-site/content/_index.md created
+gloria@GloriadeMacBook-Pro my-codef-site % hugo server -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  1  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 127 ms
+Watching for changes in /Users/gloria/Sites/my-codef-site/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /Users/gloria/Sites/my-codef-site/config.toml, /Users/gloria/Sites/my-codef-site/themes/ananke/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2021-07-06 17:58:51.130 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2021-07-06 18:11:53.127 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:08:44.015 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 87 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:08:54.984 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 8 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:09:00.982 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 14 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:10:02.990 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 7 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:11:58.988 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:13:19.987 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 13 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:16:38.985 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 14 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:20:21.989 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE|CHMOD
+Total in 7 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:20:32.986 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 11 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:21:27.991 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:21:43.986 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 3 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:22:01.987 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:23:13.990 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 20 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:28:48.966 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 14 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:29:13.962 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 6 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:31:15.963 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:32:18.963 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:32:57.963 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 6 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:33:27.965 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:34:07.966 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:34:17.964 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 8 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:39:33.931 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:49:18.936 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 5 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:49:42.930 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE|CHMOD
+Total in 9 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:50:35.933 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:52:45.931 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:55:58.004 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 3 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:56:28.003 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 12 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:58:35.005 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 9 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:59:08.004 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 6 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:59:22.004 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2021-07-07 14:59:34.003 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:04:40.003 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 5 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:05:07.004 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 3 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:05:30.004 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+    
+hugo -D
+^C%                                                                             gloria@GloriadeMacBook-Pro my-codef-site % hugo server -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  1  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 108 ms
+Watching for changes in /Users/gloria/Sites/my-codef-site/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /Users/gloria/Sites/my-codef-site/config.toml, /Users/gloria/Sites/my-codef-site/themes/ananke/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+hugo -D
+
+Change of Static files detected, rebuilding site.
+2021-07-07 15:15:18.785 +0800
+Syncing Modern Nanjing.jpg to /
+
+Change detected, rebuilding site.
+2021-07-07 15:16:06.788 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:20:10.787 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 3 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:20:19.787 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 5 ms
+
+Change of Static files detected, rebuilding site.
+2021-07-07 15:24:25.779 +0800
+Syncing ModernNanjing.jpg to /
+File no longer exists in static dir, removing /Modern Nanjing.jpg
+
+Change detected, rebuilding site.
+2021-07-07 15:24:37.783 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 6 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:28:29.782 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:35:02.786 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 14 ms
+^C%                                                                             gloria@GloriadeMacBook-Pro my-codef-site % hugo -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  2  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 155 ms
+gloria@GloriadeMacBook-Pro my-codef-site % 
+gloria@GloriadeMacBook-Pro my-codef-site % hugo server -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  2  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 122 ms
+Watching for changes in /Users/gloria/Sites/my-codef-site/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /Users/gloria/Sites/my-codef-site/config.toml, /Users/gloria/Sites/my-codef-site/themes/ananke/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change of Static files detected, rebuilding site.
+2021-07-07 15:46:08.694 +0800
+Syncing kenneth-yang-lJWJLkwIsng-unsplash.jpg to /
+
+Change of Static files detected, rebuilding site.
+2021-07-07 15:47:02.698 +0800
+Syncing ancientnanjing.jpg to /
+File no longer exists in static dir, removing /kenneth-yang-lJWJLkwIsng-unsplash.jpg
+
+Change detected, rebuilding site.
+2021-07-07 15:47:16.696 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 21 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:47:44.696 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 6 ms
+
+Change of Static files detected, rebuilding site.
+2021-07-07 15:51:39.703 +0800
+Syncing nanjing massacre.jpeg.crdownload to /
+ERROR 2021/07/07 15:51:39 lstat /Users/gloria/Sites/my-codef-site/themes/ananke/static/nanjing massacre.jpeg.crdownload: no such file or directory
+Syncing nanjing massacre.jpeg to /
+
+Change detected, rebuilding site.
+2021-07-07 15:52:08.703 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 10 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:52:25.700 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 4 ms
+
+Change detected, rebuilding site.
+2021-07-07 15:52:33.703 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 7 ms
+
+Change of Static files detected, rebuilding site.
+2021-07-07 15:52:45.704 +0800
+Syncing nanjingmassacre.jpeg to /
+File no longer exists in static dir, removing /nanjing massacre.jpeg
+
+Change detected, rebuilding site.
+2021-07-07 15:52:54.703 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 3 ms
+^C%                                                                             gloria@GloriadeMacBook-Pro my-codef-site % hugo -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  4  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 124 ms
+gloria@GloriadeMacBook-Pro my-codef-site % hugo server -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  4  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 127 ms
+Watching for changes in /Users/gloria/Sites/my-codef-site/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /Users/gloria/Sites/my-codef-site/config.toml, /Users/gloria/Sites/my-codef-site/themes/ananke/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+^C%                                                                             gloria@GloriadeMacBook-Pro my-codef-site % 
+gloria@GloriadeMacBook-Pro my-codef-site % hugo -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  4  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 216 ms
+gloria@GloriadeMacBook-Pro my-codef-site % 
+gloria@GloriadeMacBook-Pro my-codef-site % hugo server -D
+Start building sites … 
+hugo v0.84.4+extended darwin/amd64 BuildDate=unknown
+
+                   | EN  
+-------------------+-----
+  Pages            |  8  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  4  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 122 ms
+Watching for changes in /Users/gloria/Sites/my-codef-site/{archetypes,content,data,layouts,static,themes}
+Watching for config changes in /Users/gloria/Sites/my-codef-site/config.toml, /Users/gloria/Sites/my-codef-site/themes/ananke/config.yaml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2021-07-08 13:38:54.695 +0800
+Source changed "/Users/gloria/Sites/my-codef-site/content/_index.md": WRITE
+Total in 20 ms
+
+Change of config file detected, rebuilding site.
+2021-07-08 13:53:47.721 +0800
+Rebuilt in 185 ms
+hugo new about/_index.md
+hugo new about/_index.md
+

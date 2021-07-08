@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Nanjing"
+baseURL = "https://vigorous-bell-2098f8.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
@@ -10,16 +10,6 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "My blog"
-    weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
-    weight = 2
-    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
