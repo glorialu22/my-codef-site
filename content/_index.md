@@ -1,10 +1,10 @@
 ---
-title: "NANJING"
+title: "WELCOME TO MY HOMETOWN!"
 date: 2021-07-06T17:38:44+08:00
 draft: false
 ---
 
-_**#Welcome to my hometown NANJING!**_
+_**Yanjing's First Website:)**_
 
 - The capital of Jiangsu province of the People's Republic of China
 
@@ -28,7 +28,9 @@ Many towers and terraces are now there, shrouded in mist and rain.
 
 - Nanjing Massacre
     - In 1937, over 200,000 to 300,000 Chinese civilians and prisoners of war were killed by the Empire of Japan at Nanjing.(https://en.wikipedia.org/wiki/Nanjing_Massacre)
+    - A clip from a film about the occupation of Nanjing by the invading Japanese.
 
 ![nanjingmassacre](nanjingmassacre.jpeg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mh9bZCKG-CM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0xpUlyyEEI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
